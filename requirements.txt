@@ -9,3 +9,4 @@ plotly
 scikit-learn
 scipy
 opencv-python-headless
+scikit-image
