@@ -8,3 +8,4 @@ pandas
 plotly
 scikit-learn
 scipy
+opencv-python-headless
